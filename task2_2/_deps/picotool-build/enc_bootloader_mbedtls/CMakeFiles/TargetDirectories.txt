@@ -1,0 +1,2 @@
+/home/emil/Pico/lab4/task2_2/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/emil/Pico/lab4/task2_2/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

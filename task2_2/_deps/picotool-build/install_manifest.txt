@@ -1,0 +1,7 @@
+/home/emil/Pico/lab4/task2_2/_deps/picotool/picotool
+/home/emil/Pico/lab4/task2_2/_deps/picotool/picotoolTargets.cmake
+/home/emil/Pico/lab4/task2_2/_deps/picotool/picotoolTargets-release.cmake
+/home/emil/Pico/lab4/task2_2/_deps/picotool/picotoolConfig.cmake
+/home/emil/Pico/lab4/task2_2/_deps/picotool/picotoolConfigVersion.cmake
+/home/emil/Pico/lab4/task2_2/_deps/picotool/enc_bootloader.elf
+/home/emil/Pico/lab4/task2_2/_deps/picotool/enc_bootloader_mbedtls.elf

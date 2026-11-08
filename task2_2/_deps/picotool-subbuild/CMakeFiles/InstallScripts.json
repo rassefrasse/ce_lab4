@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

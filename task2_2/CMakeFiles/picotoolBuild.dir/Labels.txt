@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/emil/Pico/lab4/task2_2/CMakeFiles/picotoolBuild
+/home/emil/Pico/lab4/task2_2/CMakeFiles/picotoolBuild.rule
+/home/emil/Pico/lab4/task2_2/CMakeFiles/picotoolBuild-complete.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/emil/Pico/lab4/task2_2/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

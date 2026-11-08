@@ -1,0 +1,14 @@
+# Target labels
+ picotool-populate
+# Source files and their labels
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/CMakeFiles/picotool-populate
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule
+/home/emil/Pico/lab4/task2_2/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule
